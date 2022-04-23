@@ -1,0 +1,6 @@
+body {background-color: coral;}
+
+#wrpr {background-color:white;width:800px;height:1000;margin-left:auto;margin-right:auto;}
+
+.hdr {border:10px}
+img {border: 1px solid #ddd;border-radius: 4px;padding:5px;width: 150px;}
